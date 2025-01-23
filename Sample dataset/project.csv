@@ -1,0 +1,50 @@
+Alpha Initiative,First phase of the new system development,http://pmtool.example.com/alpha,2024-10-15,2024-09-01,False,7,3
+Beta Rollout,Second phase implementation,http://pmtool.example.com/beta,2024-11-01,2024-09-05,False,15,6
+Client Migration,Migrate clients to the new platform,http://pmtool.example.com/migration,2024-12-01,2024-09-10,False,12,2
+Data Analytics,Develop data analytics tools,http://pmtool.example.com/analytics,2024-10-30,2024-09-12,True,5,1
+Employee Training,Training for new system users,http://pmtool.example.com/training,2024-11-15,2024-09-15,False,19,8
+Feature Update,Update key features in the application,http://pmtool.example.com/feature-update,2024-12-15,2024-09-18,False,9,4
+Security Audit,Conduct a security audit,http://pmtool.example.com/security,2024-10-20,2024-09-20,True,1,12
+Infrastructure Upgrade,Upgrade server infrastructure,http://pmtool.example.com/infrastructure,2024-11-30,2024-09-22,False,14,7
+Market Research,Research for new market opportunities,http://pmtool.example.com/market-research,2024-12-10,2024-09-25,False,6,11
+Customer Feedback,Analyze customer feedback and make improvements,http://pmtool.example.com/feedback,2024-10-25,2024-09-27,True,11,16
+Sales Dashboard,Create a new sales dashboard,http://pmtool.example.com/sales-dashboard,2024-10-05,2024-09-28,False,3,19
+Product Launch,Launch the new product,http://pmtool.example.com/product-launch,2024-11-10,2024-09-30,False,2,5
+User Experience,Improve user experience based on feedback,http://pmtool.example.com/ux-improvement,2024-12-05,2024-10-01,False,20,9
+Tech Support,Enhance tech support services,http://pmtool.example.com/tech-support,2024-10-15,2024-10-02,False,13,14
+Data Migration,Migrate historical data to new system,http://pmtool.example.com/data-migration,2024-11-05,2024-10-04,False,10,18
+API Integration,Integrate new APIs,http://pmtool.example.com/api-integration,2024-12-01,2024-10-07,False,8,20
+Client Onboarding,Onboard new clients,http://pmtool.example.com/client-onboarding,2024-10-20,2024-10-10,True,18,15
+Performance Tuning,Tune application performance,http://pmtool.example.com/performance-tuning,2024-11-20,2024-10-12,False,4,2
+Backup System,Implement new backup system,http://pmtool.example.com/backup-system,2024-12-20,2024-10-15,False,16,6
+Compliance Check,Ensure compliance with new regulations,http://pmtool.example.com/compliance,2024-10-25,2024-10-17,True,17,4
+Mobile App,Develop a mobile application,http://pmtool.example.com/mobile-app,2024-11-30,2024-10-20,False,22,10
+Customer Portal,Build a new customer portal,http://pmtool.example.com/customer-portal,2024-12-15,2024-10-22,False,21,7
+Internal Audit,Conduct an internal audit,http://pmtool.example.com/internal-audit,2024-10-10,2024-10-25,True,15,11
+Website Redesign,Redesign the company website,http://pmtool.example.com/website-redesign,2024-11-10,2024-10-27,False,9,12
+Vendor Management,Improve vendor management processes,http://pmtool.example.com/vendor-management,2024-12-01,2024-10-30,False,4,13
+Staff Recruitment,Recruit new staff members,http://pmtool.example.com/staff-recruitment,2024-10-15,2024-11-01,False,6,18
+Product Update,Update existing products,http://pmtool.example.com/product-update,2024-11-20,2024-11-03,False,13,14
+Client Feedback,Collect and analyze client feedback,http://pmtool.example.com/client-feedback,2024-12-10,2024-11-05,False,11,6
+Server Maintenance,Perform server maintenance,http://pmtool.example.com/server-maintenance,2024-10-30,2024-11-07,True,20,9
+Software Upgrade,Upgrade the core software,http://pmtool.example.com/software-upgrade,2024-11-15,2024-11-10,False,7,3
+HR System,Implement new HR system,http://pmtool.example.com/hr-system,2024-12-01,2024-11-12,False,15,1
+Data Analysis,Analyze current data trends,http://pmtool.example.com/data-analysis,2024-10-25,2024-11-15,True,19,8
+CRM Integration,Integrate with new CRM,http://pmtool.example.com/crm-integration,2024-11-30,2024-11-18,False,8,13
+Event Planning,Plan and execute company events,http://pmtool.example.com/event-planning,2024-12-10,2024-11-20,False,14,17
+Employee Wellness,Develop employee wellness programs,http://pmtool.example.com/wellness,2024-10-15,2024-11-22,False,2,12
+Data Security,Enhance data security measures,http://pmtool.example.com/data-security,2024-11-05,2024-11-25,True,10,4
+API Development,Develop new APIs,http://pmtool.example.com/api-development,2024-12-15,2024-11-27,False,16,7
+Client Support,Improve client support services,http://pmtool.example.com/client-support,2024-10-20,2024-12-01,False,21,18
+Training Materials,Create training materials,http://pmtool.example.com/training-materials,2024-11-10,2024-12-05,True,6,16
+Employee Onboarding,Improve employee onboarding process,http://pmtool.example.com/employee-onboarding,2024-12-01,2024-12-07,False,12,2
+IT Infrastructure,Upgrade IT infrastructure,http://pmtool.example.com/it-infrastructure,2024-10-15,2024-12-10,False,13,5
+Customer Support,Enhance customer support capabilities,http://pmtool.example.com/customer-support,2024-11-25,2024-12-12,True,17,10
+Product Documentation,Update product documentation,http://pmtool.example.com/product-docs,2024-12-10,2024-12-15,False,9,12
+Vendor Integration,Integrate with new vendors,http://pmtool.example.com/vendor-integration,2024-10-20,2024-12-18,False,14,19
+Compliance Training,Provide compliance training,http://pmtool.example.com/compliance-training,2024-11-15,2024-12-20,False,20,6
+Website Maintenance,Perform website maintenance,http://pmtool.example.com/website-maintenance,2024-12-01,2024-12-22,True,11,13
+Marketing Campaign,Execute new marketing campaign,http://pmtool.example.com/marketing-campaign,2024-10-30,2024-12-25,False,15,2
+Client Retention,Develop client retention strategies,http://pmtool.example.com/client-retention,2024-11-05,2024-12-27,False,18,9
+Technology Assessment,Assess new technology trends,http://pmtool.example.com/technology-assessment,2024-12-15,2024-12-30,False,5,16
+Strategic Planning,Plan for the next fiscal year,http://pmtool.example.com/strategic-planning,2024-10-25,2024-12-31,True,2,11
