@@ -20,7 +20,7 @@ Admin Page
 ![Preview-2](preview-2.png)
 
 
-## File name to import sql into phpmyadmin database for sample data
+## SQL File in order to import sql sample data into the database
 
 The file name is `fit2104_a5.sql` and it can be found in the root directory of the project
 
